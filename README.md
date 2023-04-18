@@ -14,6 +14,22 @@ The first analysis involved comparing the energy mix of African nations, which i
 
 The second analysis focused on the top 5 African nations with the highest electricity generation capacity based on GDP. This analysis aims to identify the factors that contribute to high electricity generation capacity in these countries. The analysis includes a comparison of the energy mix of the top 5 African nations, as well as an examination of the investment in the energy sector and the regulatory framework in these countries.
 
+## Results
+
+### Trend of Energy Mix of African Nations
+
+![Energy Mix of African Nations Trend](./images/africa_qty_trend.png)
+
+The above chart shows the trend of energy mix of African nations, showing the contribution of each energy
+source from 1990-2020.
+
+### Top 5 African Nations with Highest Electricity Generation Capacity
+
+![Top 5 African Nations with Highest Electricity Generation Capacity](./images/top5_capacity.png)
+
+The above chart shows the top 5 African nations with the highest electricity generation capacity based on GDP, including a breakdown of their energy mix.
+
+
 ## Conclusion
 
 The analysis of the electricity generation capacity of African nations highlights the importance of diversifying the energy mix and investing in renewable energy sources. The analysis of the top 5 African nations with the highest electricity generation capacity based on GDP reveals the importance of a supportive regulatory framework and significant investment in the energy sector.
